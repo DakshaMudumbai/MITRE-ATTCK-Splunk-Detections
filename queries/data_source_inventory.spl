@@ -1,0 +1,2 @@
+index=attackrange 
+| stats count by sourcetype
